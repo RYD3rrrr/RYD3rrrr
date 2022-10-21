@@ -1,16 +1,31 @@
-### Hi there 👋
+### Preview.cpp
+```C++
+#include <iostream>
+#include <stdio.h>
+using namespace std::Ryder;
 
-<!--
-**RYD3rrrr/RYD3rrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+int main() {
+    char info[128] = "Offensive Security Student";
+    char *langs[4] = { "Javascript", "C", "C++" "Python" };
+    
+    return 0; 
+}
+``` 
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Okami0xff666">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=RYD3rrrr&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+  </a>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h4 align="center">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=windows&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
